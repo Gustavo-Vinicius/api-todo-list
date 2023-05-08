@@ -1,7 +1,5 @@
 ## 💻 Api Todo List
-
-Repository developed during the ASP .NET Core Training course maintained by the company [Luis Dev](https://www.linkedin.com/in/luisdeol/). In this project, concepts of development of Web APIs using .NET 6, Clean Architecture, CQRS, Entity Framework Core, Dapper, Repository Pattern, Unit Tests, Authentication and Authorization with JWT, Messaging and Microservices were applied.
-
+##
 ## 📫  Routes
 
 ### Todo List Controller
