@@ -1,4 +1,4 @@
-## 💻 Api Todo List .
+## 💻 Api Todo List
 ## A aplicação se trata de um gerenciamento de tarefas, realizei a criação de um crud para esse gerenciamento de tarefas, incluindo os metódos : GET, POST, PUT, DELETE.
 ## 📫  Routes
 
